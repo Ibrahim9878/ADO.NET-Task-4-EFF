@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ado Task 4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ff7ee400f81680a813167e07fdfb1e2fd899f95")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ado Task 4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ado Task 4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
